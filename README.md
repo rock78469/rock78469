@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+github-readme-stats
+github-profile-trophy
 <!--
 **rock78469/rock78469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
