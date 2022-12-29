@@ -1,6 +1,11 @@
 ### Hi there 👋
-github-readme-stats
-github-profile-trophy
+
+- 🔭 I’m currently working 冶金數位科技有限公司
+- 🌱 I’m currently learning CI/CD、K8s、golang
+
+github-readme-stats:
+
+github-profile-trophy:
 <!--
 **rock78469/rock78469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
