@@ -3,7 +3,8 @@
 - 🔭 I’m currently working 冶金數位科技有限公司
 - 🌱 I’m currently learning CI/CD、K8s、golang
 
-github-readme-stats:
+[![Rock's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock78469)](https://github.com/anuraghazra/github-readme-stats)
+
 
 github-profile-trophy:
 <!--
