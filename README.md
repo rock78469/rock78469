@@ -10,8 +10,7 @@
 
 ###   Commit Stats
 
-[![Rock's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock78469&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Rock's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock78469&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=rock78469&theme=radical&row=1)
 
 
