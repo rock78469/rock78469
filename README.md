@@ -1,6 +1,6 @@
 ### Hi! Good to see you on my Github page! 👋👋👋
 
-- 🔭 I’m currently working 冶金數位科技有限公司
+- 🔭 I’m currently working XREX Inc.
 - 🌱 I’m currently learning CI/CD、K8s、golang
 
 
